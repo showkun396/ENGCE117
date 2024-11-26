@@ -1,0 +1,7 @@
+PS D:\C++> cd "d:\C++\HW01\" ; if ($?) { gcc HW01-3.c -o HW01-3 } ; if ($?) { .\HW01-3 }
+Test case:
+    First Name:ABC 
+    Last Name:DEF
+Output :
+ABC DEFs TC, RMUTL, Chiang Mai, Thailand
+PS D:\C++\HW01> 

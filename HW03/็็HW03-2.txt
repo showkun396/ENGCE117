@@ -1,0 +1,8 @@
+PS D:\C++\HW03> c
+
+
+
+
+              > cd "d:\C++\HW03\" ; if ($?) { gcc HW03-2.c -o HW03-2 } ; if ($?) { .\HW03-2 }
+0.000000ok see seehahasee seehahasee seehaha
+PS D:\C++\HW03> 

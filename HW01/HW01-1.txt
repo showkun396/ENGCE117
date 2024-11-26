@@ -1,0 +1,5 @@
+PS D:\C++\HW01> c
+
+              > cd "d:\C++\HW01\" ; if ($?) { gcc HW01-1.c -o HW01-1 } ; if ($?) { .\HW01-1 }
+Hello World.
+PS D:\C++\HW01> 

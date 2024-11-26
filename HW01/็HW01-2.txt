@@ -1,0 +1,5 @@
+PS D:\C++> cd "d:\C++\HW01\" ; if ($?) { gcc HW01-2.c -o HW01-2 } ; if ($?) { .\HW01-2 }
+Hello, I'm Javis (RMUTL-Version).
+This is my first time to coding with C language.
+Today is my birthday.
+PS D:\C++\HW01> 
